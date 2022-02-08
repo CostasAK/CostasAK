@@ -10,7 +10,7 @@
 
 I'm currently researching adaptive radar technologies and optimised resource allocation as a doctoral student at the [Delft University of Technology](https://www.tudelft.nl/en/) in cooperation with the [Netherlands Organisation for applied scientific research](https://www.tno.nl/en/).
 
-In my spare time I work on guitar effect pedals and far too elaborate spreadsheets.
+In my spare time I work on guitar effect pedals, game aids and far too elaborate spreadsheets.
 
 <!--
 **CostasAK/CostasAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
