@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fcostasak.github.io&label=gh-pages)](https://costasak.github.io)
 [![npm](https://img.shields.io/badge/npm-fff?style=for-the-badge&logo=npm)](https://www.npmjs.com/~costasak)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/CostasAK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/CostasAK)
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=f5f5f5)](https://scholar.google.com/citations?user=z7484-Wfh7gC)
 [![Ko-fi](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://ko-fi.com/CostasAK)
 
