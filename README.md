@@ -1,4 +1,4 @@
-# Hello, I'm Costas 👋 <img src="avatar.jpg" align="right" alt="" width="180"/>
+# Hello, I'm Costas 👋 <img src="rounded-180.png" align="right" alt="" />
 
 [![Followers](https://img.shields.io/github/followers/CostasAK.svg?style=for-the-badge&label=Followers&logo=github)](https://github.com/CostasAK)
 [![Stars](https://img.shields.io/github/stars/CostasAK?style=for-the-badge&affiliations=OWNER%2CCOLLABORATOR&label=Stars&logo=github)](https://github.com/CostasAK?tab=repositories)
