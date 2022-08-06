@@ -28,7 +28,7 @@ jobs:
           user: costasak
           template: classic
           base: activity, community, repositories, metadata
-          config_display: columns
+          config_display: regular
           config_timezone: Europe/Amsterdam
           plugin_achievements: yes
           plugin_achievements_display: compact
