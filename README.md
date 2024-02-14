@@ -9,7 +9,7 @@
 [![npm](https://img.shields.io/badge/npm-fff?style=for-the-badge&logo=npm)](https://www.npmjs.com/~costasak)
 [![Ko-fi](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://ko-fi.com/CostasAK)
 
-I'm currently researching adaptive radar technologies and optimized resource allocation as a doctoral student at the [Delft University of Technology](https://www.tudelft.nl/en/) in cooperation with the [Netherlands Organisation for applied scientific research](https://www.tno.nl/en/) and the [Netherlands Defence Academy](https://english.defensie.nl/topics/netherlands-defence-academy).
+I'm currently researching adaptive radar technologies and optimized resource allocation as a doctoral student at the [Delft University of Technology](https://www.tudelft.nl/en/) in cooperation with the [Netherlands Organisation for Applied Scientific Research](https://www.tno.nl/en/) and the [Netherlands Defence Academy](https://english.defensie.nl/topics/netherlands-defence-academy).
 
 In my spare time, I work on guitar effect pedals, game aids, and far too elaborate spreadsheets.
 
